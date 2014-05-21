@@ -1,4 +1,6 @@
 from meta_logging import log
+from color_log import ColorLog
+import logging
 
 
 @log()
