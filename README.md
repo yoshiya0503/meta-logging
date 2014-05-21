@@ -32,4 +32,4 @@ using color logging...
     log.critical("hoge")
 
 ### color logging sample
-[!sample](https://github.com/yoshiya0503/meta-logging/raw/master/sample/sample.png)
+![sample](https://github.com/yoshiya0503/meta-logging/raw/master/sample/sample.png)
